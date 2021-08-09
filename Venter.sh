@@ -1,6 +1,6 @@
 #! /bin/bash
 :'This script clones the repository,
-changes directory from current where cloning is taking place to the TeamSanger_HackBio2020
+changes directory from current where cloning is taking place to the TeamVenter_HackBio2020
 It adds the rights to execute the scripts in this directory
 executes all scripts via the for loop.
 when executing this script you get the error of bad interpreter, consider checking the location of your
